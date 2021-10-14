@@ -16,6 +16,7 @@ public class KubernetesDockerDemoApplication {
 	@GetMapping("/testing")
 	
 	public String testing() {
+		System.out.println("hello how are you");
 		
 		return "testing for kubernetes demo---------";
 	}
