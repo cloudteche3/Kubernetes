@@ -17,6 +17,7 @@ public class KubernetesDockerDemoApplication {
 	
 	public String testing() {
 		System.out.println("hello how are you");
+		System.out.println("hello how are you");
 		
 		return "testing for kubernetes demo---------";
 	}
