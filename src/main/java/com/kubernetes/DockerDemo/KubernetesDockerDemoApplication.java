@@ -10,6 +10,8 @@ public class KubernetesDockerDemoApplication {
 		SpringApplication.run(KubernetesDockerDemoApplication.class, args);
 		System.out.println("hello");
 		System.out.println("hello");
+		System.out.println("hello");
+
 
 		
 	}
