@@ -16,7 +16,7 @@ public class KubernetesDockerDemoApplication {
 	
 	public String testing() {
 		
-		return "testing for kubernetes demo";
+		return "testing for kubernetes demo---------";
 	}
 
 }
