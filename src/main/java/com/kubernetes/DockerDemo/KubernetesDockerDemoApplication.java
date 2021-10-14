@@ -22,10 +22,7 @@ public class KubernetesDockerDemoApplication {
 		System.out.println("this is my testing branch1 pravitha");
 
 		
-		System.out.println("=======================================");
-		System.out.println("=======================================");
-		System.out.println("=======================================");
-		System.out.println("=======================================");
+	
 		
 
 
