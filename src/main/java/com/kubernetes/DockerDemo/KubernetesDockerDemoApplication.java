@@ -9,6 +9,8 @@ public class KubernetesDockerDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(KubernetesDockerDemoApplication.class, args);
+		
+		System.out.println("this is my task branch");
 
 	}
 
